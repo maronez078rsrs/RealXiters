@@ -31,7 +31,7 @@ local LoginsPremium = {
 }
 
 local LoginsFree = {
-    ["RealXiters"] = "FREE-KAJDN-GFNXZ",
+    ["free"] = "FREE-AIKZJ-WUAHS",
     [""] = "",
     [""] = "",
     [""] = "",
